@@ -1,0 +1,9 @@
+build
+.swc
+.next
+node_modules
+.vscode
+.github
+.env
+.env.local
+/.next
